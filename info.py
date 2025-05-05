@@ -93,10 +93,10 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 # ============================
 # Channel & Group Links Configuration
 # ============================
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/dreamcinezone')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+BgAguBA4b_JlZmM9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/McMoviesKA')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/IMDb_MOVIEZz')
-DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/McMoviesKA')
+DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/+E9nXyKWHvWJkZWI9')
 OWNERID = int(os.environ.get('OWNERID', '1408101293'))  # Replace with the actual admin ID
 
 # ============================
