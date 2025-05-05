@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """<b>​​​​​​​​​​<u>🚩 जय श्री राम 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote>"""
+    START_TXT = """<b>​​​​​​​​​​<u>🚩 ಜೈ ಶ್ರೀ ರಾಮ್ 🚩​​​​​​​​​​</u></b>\n\n<b>ʜᴇʏ {}, {}</b>\n\n<b>ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ.</b>\n <blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote>"""
 
-    GSTART_TXT = """<b>🚩 जय श्री राम 🚩\n\nʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.\n\n<blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote></b>"""
+    GSTART_TXT = """<b>🚩 ಜೈ ಶ್ರೀ ರಾಮ್ 🚩\n\nʜᴇʏ {},\n\n𝒊 𝑨𝒎 𝑻𝒉𝒆 𝑴𝒐𝒔𝒕 𝑷𝒐𝒘𝒆𝒓𝒇𝒖𝒍 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑭𝒆𝒂𝒕𝒖𝒓𝒆.\n\n<blockquote>Nᴇᴇᴅ Pʀᴇᴍɪᴜᴍ 👉🏻 /plan</blockquote></b>"""
     
-    HELP_TXT = """<b>🚩 जय श्री राम 🚩\n\nʜᴇʏ {},
+    HELP_TXT = """<b>🚩 ಜೈ ಶ್ರೀ ರಾಮ್ 🚩\n\nʜᴇʏ {},
     
 ᴡᴇ ʜᴀᴠᴇ ᴅᴇᴠɪᴅᴇᴅ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ ꜰᴏʀ ɢʀᴏᴜᴘ ᴏᴡɴᴇʀꜱ ᴀɴᴅ ʙᴏᴛ ᴜꜱᴇʀꜱ.\nᴀɴᴅ ᴡᴇ ʜᴀᴠᴇ ꜱᴏᴍᴇ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ
 </b>"""
@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamcinezone">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/dreamcinezone>[Dreamcine_Botz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/McMoviesKA">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/McMoviesKA>[McMoviesKA]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
