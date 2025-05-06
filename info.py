@@ -95,9 +95,9 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+BgAguBA4b_JlZmM9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/McMoviesKA')
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/McMoviez_Bot')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/McChatz_bot')
 DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/+E9nXyKWHvWJkZWI9')
-OWNERID = int(os.environ.get('OWNERID', '7828678432'))  # Replace with the actual admin ID
+OWNERID = int(os.environ.get('OWNERID', '1408101293'))  # Replace with the actual admin ID
 
 # ============================
 # User Configuration
@@ -124,7 +124,7 @@ SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False) # pm 
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
-LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
+LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), True)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
