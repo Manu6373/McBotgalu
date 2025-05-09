@@ -88,7 +88,7 @@ IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Linkcents.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '230ebf78c3a41fa7f74a0144825dd238112ce009')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MoviesCornerlink/38')  # Tutorial video link for opening shortlink website
-IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
+IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 # ============================
 # Channel & Group Links Configuration
